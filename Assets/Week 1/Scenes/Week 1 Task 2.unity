@@ -525,11 +525,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2140383966}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 40966668010956648bf2f77b1556d4d7, type: 3}
+  m_Script: {fileID: 11500000, guid: 7cb96c073d103a84aa25f9c024da492c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  missilePrefab: {fileID: 8454019894147857334, guid: 7f4ba56a881784c4d94e2336b1792dc4, type: 3}
+  missilePrefab: {fileID: 8454019894147857334, guid: 94c27fc8b8db20641badc8c059f11c50, type: 3}
   spawn: {fileID: 740799507}
 --- !u!4 &2140383968
 Transform:
